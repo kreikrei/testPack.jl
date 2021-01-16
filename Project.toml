@@ -3,6 +3,11 @@ uuid = "dae061cf-4603-468f-9c1b-9b1822b198dd"
 authors = ["kreikrei <kreitonstrs@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Expectations = "2fe49d83-0758-5602-8f54-1f90ad0d522b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+
 [compat]
 julia = "1"
 
